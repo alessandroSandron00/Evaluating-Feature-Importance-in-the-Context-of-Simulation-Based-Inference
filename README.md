@@ -15,12 +15,6 @@ In this study, we:
 
 Our results demonstrate the effectiveness of **feature selection** in improving **SBI performance** for **neuroscientific inference**.  
 
-## 🚀 Features  
-- **Large-scale neural circuit simulations** (1M simulations).  
-- **Biophysical filtering for realistic LFP generation**.  
-- **Feature extraction & selection for SBI models**.  
-- **SHAP-based interpretability** to analyze feature contributions.  
-
 ## 🛠 Technologies & Tools  
 - **Python**  
 - **NumPy / SciPy**  
