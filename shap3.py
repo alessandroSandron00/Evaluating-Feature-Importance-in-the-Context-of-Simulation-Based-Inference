@@ -52,11 +52,11 @@ def remove_columns(matrix, columns_to_remove, column_names):
 ##### START CODE #################################à
 sim=948819  # Pool dimension 
 #dim=0.1 #dimesione test
-TT=100 #dimesione shap
+TT=500 #dimesione shap
 
 N_distr=2000 # ( number of sample distribution )
 k_fold=10
-rep=2
+rep=1
 
 seed=1  
 #seed_list=[634, 234, 567, 79, 123, 789, 12, 456, 654, 321]
